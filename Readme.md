@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Игорь Якунин](https://up.htmlacademy.ru/adaptive/26/user/1542369).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Оксанич](https://htmlacademy.ru/profile/oksanych).
 
 ---
 
